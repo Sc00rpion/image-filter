@@ -3,6 +3,8 @@ package console.filter;
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 
+import console.filter.interfaces.IFilter;
+
 public class NegativeFilter implements IFilter {
 
 	@Override

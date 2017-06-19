@@ -2,6 +2,8 @@ package console.filter;
 
 import java.awt.image.BufferedImage;
 
+import console.filter.interfaces.IFilter;
+
 public class GaussFilter implements IFilter {
 
 	@Override

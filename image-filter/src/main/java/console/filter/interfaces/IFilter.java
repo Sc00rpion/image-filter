@@ -1,4 +1,4 @@
-package console.filter;
+package console.filter.interfaces;
 
 import java.awt.image.BufferedImage;
 

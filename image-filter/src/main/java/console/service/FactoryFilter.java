@@ -3,11 +3,11 @@ package console.service;
 import console.filter.AverageFilter;
 import console.filter.BlackWhiteFilter;
 import console.filter.GaussFilter;
-import console.filter.IFilter;
 import console.filter.LaplaceFilter;
 import console.filter.MeanRemovalFilter;
 import console.filter.MedianFilter;
 import console.filter.NegativeFilter;
+import console.filter.interfaces.IFilter;
 
 public class FactoryFilter {
 	public static IFilter createFilter(String name){

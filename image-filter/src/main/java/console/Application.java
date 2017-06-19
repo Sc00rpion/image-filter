@@ -14,7 +14,7 @@ import com.beust.jcommander.JCommander;
 import com.beust.jcommander.Parameter;
 import com.beust.jcommander.ParameterException;
 
-import console.filter.IFilter;
+import console.filter.interfaces.IFilter;
 import console.service.FactoryFilter;
 
 public class Application {

@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+import console.filter.interfaces.IFilter;
+
 
 
 public class MedianFilter implements IFilter {
