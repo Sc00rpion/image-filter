@@ -7,7 +7,7 @@ import console.filter.LaplaceFilter;
 import console.filter.MeanRemovalFilter;
 import console.filter.MedianFilter;
 import console.filter.NegativeFilter;
-import console.filter.interfaces.IFilter;
+import console.interfaces.IFilter;
 
 public class FactoryFilter {
 	public static IFilter createFilter(String name){

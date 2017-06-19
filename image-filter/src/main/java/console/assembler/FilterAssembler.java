@@ -1,4 +1,4 @@
-package console.filter;
+package console.assembler;
 
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;

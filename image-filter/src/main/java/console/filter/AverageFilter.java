@@ -2,7 +2,8 @@ package console.filter;
 
 import java.awt.image.BufferedImage;
 
-import console.filter.interfaces.IFilter;
+import console.assembler.FilterAssembler;
+import console.interfaces.IFilter;
 
 public class AverageFilter implements IFilter {
 

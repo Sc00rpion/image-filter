@@ -4,7 +4,7 @@ import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 
-import console.filter.interfaces.IFilter;
+import console.interfaces.IFilter;
 
 public class BlackWhiteFilter implements IFilter {
 
